@@ -25,9 +25,6 @@
 
 <br>
 
-잘못된 내용은 [이슈](https://github.com/gyoogle/tech-interview-for-developer/issues)와 [PR](https://github.com/gyoogle/tech-interview-for-developer/pulls)로 알려주세요 💡
-
-<br>
 
 ### ⏩ ⏩ ⏩  [웹 사이트에서 편하게 공부하세요! Click!](https://gyoogle.dev/)  ⏪ ⏪ ⏪
 
