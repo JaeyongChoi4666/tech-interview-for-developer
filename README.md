@@ -19,13 +19,6 @@
 
 <br> 
 
-**Collaborator**
-
-| [<img src="https://avatars3.githubusercontent.com/u/34904741?s=460&u=c8b8b7954518e26abbcf5d29c69c5df0b5c53c1b&v=4" width="100">](https://github.com/gyoogle)| [<img src="https://avatars2.githubusercontent.com/u/46181475?s=460&u=16d868ed1e357e51e8ba9f6dbb77df53a8fbb945&v=4" width="100">](https://github.com/GimunLee) | [<img src="https://avatars2.githubusercontent.com/u/37679254?s=460&u=1a7ccc7bf9926d6ea1cc455d04dfb63e4ebceaec&v=4" width="100">](https://github.com/b2narae) |
-| :-----------------------------------: | :---------------------------------------: | :-------------------------------------: |
-
-<br>
-
 **Commit convention rule** : 날짜-[주제]-내용-상태
 
 `ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete`
@@ -33,18 +26,6 @@
 <br>
 
 잘못된 내용은 [이슈](https://github.com/gyoogle/tech-interview-for-developer/issues)와 [PR](https://github.com/gyoogle/tech-interview-for-developer/pulls)로 알려주세요 💡
-
-<br>
-
-**🙏도움을 주신 분들🙏**
-
-<br>
-
-<a href="https://github.com/gyoogle/tech-interview-for-developer/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gyoogle/tech-interview-for-developer" />
-</a>
-
-<br>
 
 <br>
 
